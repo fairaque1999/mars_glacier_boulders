@@ -2,6 +2,9 @@
 
 ## Code for Methods in PNAS paper: "Surface boulder banding indicates martian debris-covered glaciers formed over multiple glaciations"
 
-### Paper can be accessed at:https://doi.org/10.1073/pnas.2015971118
+### Paper can be accessed at: https://doi.org/10.1073/pnas.2015971118
+
+##### Abstract:
+Glacial landforms, including lobate debris aprons, are a global water ice reservoir on Mars preserving ice from past periods when high orbital obliquity permitted nonpolar ice accumulation. Numerous studies have noted morphological similarities between lobate debris aprons and terrestrial debris-covered glaciers, an interpretation supported by radar observations. On Earth and Mars, these landforms consist of a core of flowing ice covered by a rocky lag. Terrestrial debris-covered glaciers advance in response to climate forcing driven by obliquity-paced changes to ice mass balance. However, on Mars, it is not known whether glacial landforms emplaced over the past 300 to 800 formed during a single, long deposition event or during multiple glaciations. Here, we show that boulders atop 45 lobate debris aprons exhibit no evidence of monotonic comminution but are clustered into bands that become more numerous with increasing latitude, debris apron length, and pole-facing flow orientation. Boulder bands are prominent at glacier headwalls, consistent with debris accumulation during the current Martian interglacial. Terrestrial glacier boulder bands occur near flow discontinuities caused by obliquity-driven hiatuses in ice accumulation, forming internal debris layers. By analogy, we suggest that Martian lobate debris aprons experienced multiple cycles of ice deposition, followed by ice destabilization in the accumulation zone, leading to boulder-dominated lenses and subsequent ice deposition and continued flow. Correlation between latitude and boulder clustering suggests that ice mass-balance works across global scales on Mars. Lobate debris aprons may preserve ice spanning multiple glacial/interglacial cycles, extending Mars climate records back hundreds of millions of years.
 
 
